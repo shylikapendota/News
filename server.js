@@ -49,6 +49,3 @@ app.listen(
   ),
 );
 
-
-
-// hosted server https://news-app-native.herokuapp.com/
