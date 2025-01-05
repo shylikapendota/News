@@ -1,0 +1,36 @@
+{
+  "name": "news_app",
+  "version": "1.0.0",
+  "description": "news backend api",
+  "main": "server.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.6.0",
+    "express": "^4.21.2",
+    "express-async-handler": "^1.1.4",
+    "express-form-data": "^2.0.16",
+    "image-to-base64": "^2.2.0",
+    "jsonwebtoken": "^9.0.2",
+    "loadsh": "0.0.4",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "mongodb": "^6.12.0",
+    "mongoose": "^8.9.2",
+    "morgan": "^1.10.0",
+    "nodemailer": "^6.5.0",
+    "nodemon": "^3.1.9",
+    "react": "^19.0.0",
+    "speakeasy": "^2.0.0",
+    "uuid-v4": "^0.1.0",
+    "start": "node index.js"
+  },
+  "keywords": []
+}
